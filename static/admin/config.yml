@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: darena67/blog
+  name: git-gateway
+  branch: master
 
 media_folder: content/assets
 public_folder: ../assets
