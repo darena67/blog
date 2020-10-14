@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+  repo: darena67/blog
 
 media_folder: content/assets
 public_folder: ../assets
