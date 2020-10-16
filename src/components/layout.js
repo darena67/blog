@@ -46,7 +46,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={`/blog/`}
+            to={`/`}
           >
             {title}
           </Link>
@@ -69,7 +69,7 @@ class Layout extends React.Component {
         <Footer>
           © {new Date().getFullYear()}
           {` `}
-          <a href="https://www.redeyecpa.com">RedEyeCPA</a>
+          <a href="https://redeyecpa.com">RedEyeCPA</a>
         </Footer>
       </Wrapper>
     )
