@@ -1,6 +1,6 @@
 ---
-path: what is path
-date: 2020-10-14T20:54:40.922Z
+path: redeyecpa.com
+date: 2020-10-16T20:54:40.922Z
 title: How to fill out form 8300?
 description: Tips on how to report cash received in Cannabis transactions
 ---
