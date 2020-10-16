@@ -30,7 +30,6 @@ It is crucial to collect this information before or during a sale. In my experie
 
    ![cash reporting in Cannabis Industry](../assets/f8300-1.png "Form 8300 instructions")
 
-
    **What to do if the client is not responding?**                                                                                                                  If you cannot get all of the necessary information from your buyer, try to do your best. Contact the client in a written form and ask again. If the client refuses to communicate or ignores your attempts, keep a copy of all of your communication. This will be proof of your compliance. Complete form 8300 with the information you have on file, and attach a statement explaining your attempts to collect the missing data.
 
    **How to file:**
@@ -40,6 +39,4 @@ It is crucial to collect this information before or during a sale. In my experie
    By January 31st, you will have to furnish your client with a statement that informs them of your 8300 form filings activity. The report is in free form but should include the following information:  contact information of both parties, the total amount of reportable cash in the past year, and notification that the company provided the information mentioned above to the IRS.
    The IRS imposes enormous penalties for failure to provide statements to buyers. So, make sure that you send them out by the end of January.
 
-   I think that's about it. You can read up on details here:  https://www.irs.gov/pub/irs-pdf/p1544.pdf
-
-   Daria
+   That's all. You can read up on details here:  https://www.irs.gov/pub/irs-pdf/p1544.pdf
