@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `RedEyeCPA Blog`,
+    title: `Cannabis accounting for dummies.`,
     author: `Daria Nagal`,
     description: `Blog`,
     siteUrl: `https://blog.redeyecpa.com/`,
