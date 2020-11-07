@@ -7,6 +7,7 @@ module.exports = {
     siteUrl: `https://blog.redeyecpa.com/`,
     social: {
       twitter: `gatsbyjs`,
+      facebook: `redeyecpa`,
     },
   },
   plugins: [
