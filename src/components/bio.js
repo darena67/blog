@@ -25,7 +25,7 @@ function Bio() {
               alt={author}
               style={{
                 marginRight: rhythm(1 / 2),
-                marginBottom: 0,
+                marginBottom: 10,
                 minWidth: 50,
                 borderRadius: `100%`,
               }}
@@ -60,7 +60,7 @@ const bioQuery = graphql`
       siteMetadata {
         author
         social {
-          twitter
+          facebook
         }
       }
     }
