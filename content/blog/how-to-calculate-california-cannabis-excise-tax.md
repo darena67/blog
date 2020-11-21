@@ -4,8 +4,14 @@ date: 2020-11-21T21:54:19.065Z
 title: How to Calculate California Cannabis Excise Tax?
 description: California Cannabis Excise tax for Related and non Related Parties
 ---
-When calculating the California Cannabis Excise tax, we first need to determine the type of transaction that is taking place. Distributors are the ones that remit Cannabis Excise tax, and they conduct two types of transactions: Non-Arm's-length and Arm's length.\
-***\*Non-Arm's-length** simply means that the distributor and the retailer **are related** parties. In this type of transaction, the taxable base is your retail price. The CDTFA website gives a detailed explanation of this calculation [here](https://www.cdtfa.ca.gov/industry/cannabis.htm#Distributors)
+When calculating the California Cannabis Excise tax, we first need to determine the type of transaction that is taking place. Distributors are the ones that remit Cannabis Excise tax, and they conduct two types of transactions: [Non-Arm's-length and Arm's length.](https://www.cdtfa.ca.gov/industry/cannabis.htm#Distributors)\
+\*\***Arm's length means that the distributor and the retailer are unrelated parties.** The distributor and the retailer do not have common owners and are not part of the same business structure. With unrelated parties, the calculation of Excise tax is relatively simple.  We simply take the cost of good sold and multiply it by the CDTFA mark up rate, which is currently 80%. After that we tax everything by 15%:
+
+ After simplifying the equation we can see that we will arrive at the correct Excise tax by multiplying COGS by 24%. 
+
+Calculating Excise tax as unrelated parties is more beneficial. In my experience, the markup rate for dispensaries is usually 100% and not 80%. This means that you pay less tax at 80% mark up rate when in reality, your mark up is 100%
+
+**\*\*Non-Arm's-length** simply means that the distributor and the retailer **are related** parties.  In this type of transaction, the taxable base is your end retail price to the consumer. The CDTFA website gives a detailed explanation of this calculation here
 
  This is a screenshot of the CDTFA calculation, which seems to be pretty straight forward:
 
@@ -17,4 +23,4 @@ As you can see in the above picture, the Excise tax is also levied onto the City
 
 In my opinion, the Excise tax calculation for related parties is the following:
 
-**(Sales price +delivery+safety-promotions) * 15%**
+**(retail price +delivery+safety fees-promotions) * 15%**
