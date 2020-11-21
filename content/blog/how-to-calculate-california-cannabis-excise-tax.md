@@ -9,18 +9,20 @@ When calculating the California Cannabis Excise tax, we first need to determine 
 
  After simplifying the equation we can see that we will arrive at the correct Excise tax by multiplying COGS by 24%. 
 
-Calculating Excise tax as unrelated parties is more beneficial. In my experience, the markup rate for dispensaries is usually 100% and not 80%. This means that you pay less tax at 80% mark up rate when in reality, your mark up is 100%
+Calculating Excise tax as unrelated parties is more beneficial. In my experience, the markup rate for dispensaries is usually 100% and not 80%. This means that you are not taxing 20% of your sales.
 
-**\*\*Non-Arm's-length** simply means that the distributor and the retailer **are related** parties.  In this type of transaction, the taxable base is your end retail price to the consumer. The CDTFA website gives a detailed explanation of this calculation here
-
- This is a screenshot of the CDTFA calculation, which seems to be pretty straight forward:
+**\*\*Non-Arm's-length** simply means that the distributor and the retailer **are related** parties.  In this type of transaction, the taxable base is your end retail price to the consumer. The CDTFA website gives a detailed explanation and here is a screeshot of their example:
 
 ![](../assets/screenshot-2020-11-21-134743.png "CDTFA Cannabis Excise Tax Example")
 
-As you can see in the above picture, the Excise tax is also levied onto the City tax.  I believe that the CDTFA website is wrong since the [Revenue and Taxation Code Section 6102](https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6012.html) explicitly states that City tax should not be taxed. 
+As you can see in the above picture, the Excise tax is also levied at the City tax.  I believe that the CDTFA website is wrong since the [Revenue and Taxation Code Section 6102](https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6012.html) explicitly states that City tax should not be taxed. 
 
 ![](../assets/2.png "Section 6102(c)(5)")
 
 In my opinion, the Excise tax calculation for related parties is the following:
 
 **(retail price +delivery+safety fees-promotions) * 15%**
+
+**The other note about Cannabis Excise Tax is that only recreational Cannabis is taxed. Medical sales are not subject to this tax and you need to make sure that you exclude them from your calculations.** 
+
+Those are major pointsabout California Cannabis Excise tax. If you need help setting up your Point of Sale System, please contact me at daria@redeyecpa.com
